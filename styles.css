@@ -19,6 +19,7 @@ nav {
     border-radius: 30px;
     padding: 10px 15px; 
     margin: 0 10px;
+    display: inline;
 }
 
 h1, h2, h3 {
